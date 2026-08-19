@@ -1,5 +1,3 @@
-My bad! Here is **one single box** to copy and paste directly into your README.md:
-
 ```markdown
 # 📊 Executive Sales & Revenue Leakage Dashboard
 
