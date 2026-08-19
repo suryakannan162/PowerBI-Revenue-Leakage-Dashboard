@@ -34,6 +34,6 @@ Custom measures created using DAX calculations across relational tables:
 
 ## 📂 Repository Contents
 * `Executive_Sales_Revenue_Leakage_Dashboard.pbix` - Complete Power BI Desktop report file.
-* `dashboard_preview.jpg` - Dashboard canvas layout screenshot.
+* `dashboard_preview.png` - Dashboard canvas layout screenshot.
 
 ```
